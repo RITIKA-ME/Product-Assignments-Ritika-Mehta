@@ -88,7 +88,7 @@ Each project includes my **approach, insights, frameworks, and business impact**
 
 ---
 
-## 🔵 *Reelo_Assignment.pdf*Reelo — Product Assignment**
+## 🔵 *Reelo_Assignment.pdf*Reelo — Product Assignment
 
 **Goal:** Diagnose why customer repeat usage dropped and propose actionable solutions.
 **Approach:** Funnel analysis, root-cause evaluation, user behavior mapping.
@@ -102,7 +102,7 @@ Each project includes my **approach, insights, frameworks, and business impact**
 * Personalized nudges
 * Social-based triggers
   **Impact:** Increase activation & repeat usage.
-  📄 **
+  📄 [Reelo Assignment](Reelo_Assignment.pdf)
 
 ---
 
@@ -114,7 +114,7 @@ Each project includes my **approach, insights, frameworks, and business impact**
 * Amazing UI, behaviorally smart design
 * Trust-boosting features (Gold at Home)
 * Areas to improve: personalization, nudges, social signals
-  📄 **PDF: Jar App — Product Review (Task 1).pdf** (Jar App Review)
+  📄 [Jar App — Product Review (Task 1)](Jar_App_Task1/Jar_App_Review.pdf)
 
 
 ---
@@ -130,7 +130,7 @@ Each project includes my **approach, insights, frameworks, and business impact**
 * Savings score + rewards
   **Why It Works:**
   Extends Jar from micro-savings → full personal finance ecosystem.
-  📄 **PDF: BudgetStation_Jar_Product_Task _2.pdf** (BudgetStation)
+  📄 [BudgetStation](BudgetStation_Jar_Product_Task _2.pdf)
 
 
 ---
@@ -144,7 +144,7 @@ Key highlights:
 * Engaging notifications
 * Clean cuisine filters
 * Budget-friendly leftover food model
-  📄 **PDF:Zomato_Product_Assignment_Ritika_Mehta.pdf**
+  📄 [Zomato — App Review](Zomato_Product_Assignment_Ritika_Mehta.pdf)
 
 
 ---
@@ -153,7 +153,7 @@ Key highlights:
 
 🎥 *Included in repo*
 A feature I propose Zomato should add, backed by user behavior & business value.
-*Video :New Feature ft Zomato.mp4*
+[Video](New Feature ft Zomato.mp4)
 
 ---
 
@@ -170,7 +170,7 @@ A feature I propose Zomato should add, backed by user behavior & business value.
 * Interactive maps
 * Room comparison clarity
 * Landmark-based suggestions
-  📄 **PDF: AI_Chat_Call_Feedback_Hotel.pdf**
+  📄 [AI Chat & Call Agent Feedback](AI_Chat_Call_Feedback_Hotel.pdf)
 
 
 ---
