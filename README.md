@@ -114,7 +114,7 @@ Each project includes my **approach, insights, frameworks, and business impact**
 * Amazing UI, behaviorally smart design
 * Trust-boosting features (Gold at Home)
 * Areas to improve: personalization, nudges, social signals
-  📄 (Jar%20App%20%E2%80%94%20Product%20Review%20(Task%201).pdf)
+  📄 [JarProductReview](Jar_App_Review_Task1.pdf)
 
 
 
@@ -131,7 +131,7 @@ Each project includes my **approach, insights, frameworks, and business impact**
 * Savings score + rewards
   **Why It Works:**
   Extends Jar from micro-savings → full personal finance ecosystem.
-  📄 [New Product Idea: BudgetStation (Task 2](BudgetStation_Jar_Product_Task _2.pdf)
+  📄 [ New Product Idea](BudgetStation_Jar_Product_Task 2.pdf)
 
 
 ---
