@@ -114,7 +114,7 @@ Each project includes my **approach, insights, frameworks, and business impact**
 * Amazing UI, behaviorally smart design
 * Trust-boosting features (Gold at Home)
 * Areas to improve: personalization, nudges, social signals
-  📄 [Jar App — Product Review (Task 1)](Jar App — Product Review (Task 1).pdf)
+  📄 [Jar AppProduct Review (Task 1)](Jar App — Product Review (Task 1).pdf)
 
 
 ---
@@ -130,7 +130,7 @@ Each project includes my **approach, insights, frameworks, and business impact**
 * Savings score + rewards
   **Why It Works:**
   Extends Jar from micro-savings → full personal finance ecosystem.
-  📄 [ New Product Idea: BudgetStation (Task 2](BudgetStation_Jar_Product_Task _2.pdf)
+  📄 [New Product Idea: BudgetStation (Task 2](BudgetStation_Jar_Product_Task _2.pdf)
 
 
 ---
@@ -153,7 +153,8 @@ Key highlights:
 
 🎥 *Included in repo*
 A feature I propose Zomato should add, backed by user behavior & business value.
-[Video](New Feature ft Zomato.mp4)
+🎥 [Watch Zomato Feature Video (Google Drive)](https://drive.google.com/file/d/1ojB0UbeKEx-Fk3phDgFYbvhuMRMguuvT/view?usp=sharing)
+
 
 ---
 
