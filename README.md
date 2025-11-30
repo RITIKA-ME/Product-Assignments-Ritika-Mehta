@@ -114,7 +114,8 @@ Each project includes my **approach, insights, frameworks, and business impact**
 * Amazing UI, behaviorally smart design
 * Trust-boosting features (Gold at Home)
 * Areas to improve: personalization, nudges, social signals
-  📄 [Jar AppProduct Review (Task 1)](Jar App — Product Review (Task 1).pdf)
+  📄 (Jar%20App%20%E2%80%94%20Product%20Review%20(Task%201).pdf)
+
 
 
 ---
