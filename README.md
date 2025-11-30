@@ -1,8 +1,7 @@
 # Product-Assignments-Ritika-Mehta
 A collection of real product assignments I’ve completed for PM roles — analysis, insights, and solutions.
 
-Perfect — here is your **Hybrid (stylish + professional) final README.md**.
-You can **copy–paste this entire thing directly** into your GitHub `README.md` file.
+
 
 ---
 
